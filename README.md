@@ -1,6 +1,6 @@
 # Benchmark Results
 
-Results from [benchmark](https://github.com/spegel-org/benchmark) run with [Spegel](https://github.com/spegel-org/spegel).
+Results from [benchmark](https://github.com/spegel-org/benchmark) runs.
 
 ## License
 
